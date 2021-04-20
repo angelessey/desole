@@ -33,7 +33,7 @@ toolbar.windowLabel.appearance: Flat Solid
 toolbar.windowLabel.color1: #000000
 toolbar.windowLabel.font: Input Sans Condensed/8/Normal
 toolbar.windowLabel.alignment: Center
-toolbar.windowLabel.textColor: #FF4712
+toolbar.windowLabel.textColor: #ffffff
 toolbar.windowLabel.marginWidth: 1
 toolbar.windowLabel.borderWidth: 1
 
