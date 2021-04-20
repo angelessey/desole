@@ -1,0 +1,118 @@
+! ---------------------------------------------------
+! Buzzcut by angelessey
+! qwilk_AT_xoblite_DOT_net
+! http://xoblite.net/
+! March 15th, 2021
+! ---------------------------------------------------
+
+style.name:		Desole
+style.author:		angelessey
+style.date:		APRIL 2021
+style.credits:		default style #1 -> xoblite bb5 RC4
+style.comments:		http://xoblite.net/
+style.wallpaper:		(see credits.txt)
+
+! --------------------------------------------------
+
+toolbar.appearance: Flat Solid
+toolbar.color: #000000
+toolbar.font: Input Sans Condensed/8/Normal
+toolbar.alignment: Center
+toolbar.textColor: #ffffff
+toolbar.marginWidth: 1
+toolbar.borderWidth: 0
+toolbar.borderColor: #000000
+
+toolbar.label.appearance: ParentRelative
+toolbar.label.font: Blank/1/Normal
+toolbar.label.alignment: left
+toolbar.label.textColor: #ffffff
+toolbar.label.marginWidth: 1
+
+toolbar.windowLabel.appearance: Flat Solid
+toolbar.windowLabel.color1: #000000
+toolbar.windowLabel.font: Input Sans Condensed/8/Normal
+toolbar.windowLabel.alignment: Center
+toolbar.windowLabel.textColor: #FF4712
+toolbar.windowLabel.marginWidth: 1
+toolbar.windowLabel.borderWidth: 1
+
+toolbar.clock.appearance: ParentRelative
+toolbar.clock.font: Blank/1/Normal
+toolbar.clock.alignment: Center
+toolbar.clock.textColor: #ffffff
+toolbar.clock.marginWidth: 1
+
+toolbar.button.appearance: ParentRelative
+toolbar.button.picColor: #000000
+toolbar.button.marginWidth: 1
+
+toolbar.button.pressed.appearance: Flat Solid
+toolbar.button.pressed.color: #000000
+toolbar.button.pressed.picColor: #000000
+toolbar.button.pressed.marginWidth: 1
+toolbar.button.pressed.borderWidth: 1
+
+! --------------------------------------------------
+
+menu.title.appearance: Flat Solid
+menu.title.color: #000000
+menu.title.font: Blank/1/Normal
+menu.title.alignment: Left
+menu.title.textColor: #000000
+menu.title.shadowColor: #000000
+menu.title.marginWidth: 0
+menu.title.borderWidth: 1
+
+menu.frame.appearance: Flat Solid
+menu.frame.color: #000000
+menu.frame.font: Input Sans Condensed/8/Normal
+menu.frame.alignment: Left
+menu.frame.textColor: #ffffff
+menu.frame.disabledColor: #ffffff
+menu.frame.bulletColor: #ffffff
+menu.frame.marginWidth: 2
+menu.frame.borderWidth: 2
+menu.frame.borderColor: #000000
+
+menu.active.appearance: Flat Solid
+menu.active.color: #000000
+menu.active.textColor: #ffffff
+menu.active.bulletColor: #ffffff
+menu.active.marginWidth: 0
+menu.active.borderWidth: 0
+
+menu.grip.appearance: Flat Solid
+menu.grip.color: #000000
+menu.grip.font: Blank/0/Normal
+menu.grip.alignment: Left
+menu.grip.textColor: #000000
+menu.grip.marginWidth: 0
+menu.grip.borderWidth: 0
+
+menu.indicator.appearance: Flat Solid
+menu.indicator.color: #404040
+menu.indicator.marginWidth: 2
+menu.indicator.borderWidth: 2
+
+menu.separator.appearance: Flat Solid
+menu.separator.color: #000000
+
+menu.bullet: Triangle
+menu.bullet.position: Right
+
+! --------------------------------------------------
+
+dock.appearance: Flat Solid
+dock.color: #FFFFFF
+dock.marginWidth: 2
+dock.borderWidth: 0
+
+! --------------------------------------------------
+
+console.color: #FFFFFF
+console.textColor: #636363
+console.buttonColor: #636363
+console.font: Input Sans/8/Normal
+
+! --------------------------------------------------
