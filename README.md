@@ -1,0 +1,4 @@
+# desole
+desole for xoblite
+
+![image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/382e71ee-f9e7-43ec-807c-70d4295e5e1e/dehz4a9-bfa4c798-6482-4e0c-b1d5-d333114de1b8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMzgyZTcxZWUtZjllNy00M2VjLTgwN2MtNzBkNDI5NWU1ZTFlXC9kZWh6NGE5LWJmYTRjNzk4LTY0ODItNGUwYy1iMWQ1LWQzMzMxMTRkZTFiOC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.AuxG1kcXnbK-3beQGH8ZozFjpR0_IoJ-at73sXKFc5c)
